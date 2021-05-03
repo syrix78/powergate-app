@@ -8,7 +8,7 @@
 
 ## Requirements
 Make sure you match the following requirements in order to run our prototype:
-- Linux distribution of your choice (We have teSsted it using Ubuntu 20.04 LTS)
+- Linux distribution of your choice (We have tested it using Ubuntu 20.04 LTS)
 - Make sure [Docker](https://www.docker.com/) and Cmake are installed in order to run Localnet
 - Make sure [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/get-npm) are installed
 
